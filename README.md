@@ -24,9 +24,9 @@
 
 | 领域 | 技能栈 |
 |------|--------|
-| 🐍 后端 | Python · FastAPI |
+| 🐍 后端 | Python · FastAPI · PySide6 · C# |
 | ⚛️ 前端 | TypeScript · Vue.js |
-| 🎮 游戏 | Godot · GDScript |
+| 🎮 游戏 | Godot · GDScript · C# · Unity |
 | 🧪 其他 | Docker · Linux · 自动化脚本 |
 
 ---
