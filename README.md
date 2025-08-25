@@ -1,11 +1,9 @@
 # 🧬 郝某人BH
-> 一名在代码荒漠里种星星的工程师
-<div>
-访客计数  
+<div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=hmr-BH&label=Profile%20Views&color=0e75b6&style=flat)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=00add8&vCenter=true&width=435&lines=Hello%2C+world!;Python%20is%20my%20lightsaber;Vue.js%20powers%20my%20UIs;I%20make%20games%20with%20Godot) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=5000&color=00add8&vCenter=true&width=1000&lines=Earth%20is%20the%20cradle%20of%20humanity%2C%20but%20mankind%20cannot%20stay%20in%20the%20cradle%20forever.+%E2%80%94+Konstantin+Tsiolkovsky;Destruction%20as%20a%20gift%2C%20the%20supreme%20affirmation.+%E2%80%94+%22Dark+Forest%22+OST;Our%20destiny%20is%20the%20stars%20and%20the%20endless%20sea.+%E2%80%94+%22Stellaris%22;Tilling%20the%20star-seas%2C%20reaching%20for%20the%20vault%20of%20heaven.+%E2%80%94+CNSA+2025)
 </div>
 
 
@@ -17,7 +15,7 @@
 - 🔭 **正在捣鼓：** 把想象编译成现实  
 - 🌱 **正在学习：** 如何优雅地写出让自己三天后还能看懂的代码  
 - 👯 **寻找伙伴：** 一起把 bug 升级成彩蛋  
-- 🧘 **正在养生：** 把 84 次 commit 的能量条回满格
+- 🧘 **正在养生：** 只要你不拒绝，活是干不完的 ~
 
 ---
 
@@ -35,13 +33,13 @@
 
 ### 📊 2025 数据看板
 
-| 指标 | 进度 | 趋势 |
-|------|------|------|
-| 总提交数 | ![Commits](https://badgen.net/badge/Commits/84/00add8?icon=github) | 📈 +1 |
-| PR 数 | ![PRs](https://badgen.net/badge/PRs/10/orange?icon=git) | → 持平 |
-| 贡献仓库 | ![Repos](https://badgen.net/badge/Contributed/7/green?icon=github) | → 持平 |
-| 星标数 | ![Stars](https://badgen.net/badge/Stars/1/yellow?icon=star) | → 持平 |
-| Issues | ![Issues](https://badgen.net/badge/Issues/2/red?icon=issue) | → 持平 |
+| 指标 | 进度 |
+|------|------|
+| 总提交数 | ![Commits](https://badgen.net/badge/Commits/84/00add8?icon=github) 
+| PR 数 | ![PRs](https://badgen.net/badge/PRs/10/orange?icon=git) 
+| 贡献仓库 | ![Repos](https://badgen.net/badge/Contributed/7/green?icon=github)
+| 星标数 | ![Stars](https://badgen.net/badge/Stars/1/yellow?icon=star)
+| Issues | ![Issues](https://badgen.net/badge/Issues/2/red?icon=issue)
 
 ---
 
