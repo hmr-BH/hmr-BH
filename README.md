@@ -43,12 +43,6 @@
 
 ---
 
-### 🎮 本周代码热力图
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hmr-BH&theme=dark&hide_border=true)
-
----
-
-
 ### 📫 联系我
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/hmr-BH)
 [![Email](https://img.shields.io/badge/Email-1218271192@qq.com-D14836?style=flat-square&logo=gmail)](mailto:1218271192@qq.com)
