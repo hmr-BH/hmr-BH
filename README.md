@@ -1,7 +1,7 @@
 # 🧬 郝某人BH
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=5000&color=00add8&vCenter=true&width=1000&lines=Earth%20is%20the%20cradle%20of%20humanity%2C%20but%20mankind%20cannot%20stay%20in%20the%20cradle%20forever.+%E2%80%94+Konstantin+Tsiolkovsky;Destruction%20as%20a%20gift%2C%20the%20supreme%20affirmation.+%E2%80%94+%22Dark+Forest%22+OST;Our%20destiny%20is%20the%20stars%20and%20the%20endless%20sea.+%E2%80%94+%22Stellaris%22;Tilling%20the%20star-seas%2C%20reaching%20for%20the%20vault%20of%20heaven.+%E2%80%94+CNSA+2025)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=5000&color=00add8&vCenter=true&width=1000&lines=Earth%20is%20the%20cradle%20of%20humanity%2C%20but%20mankind%20cannot%20stay%20in%20the%20cradle%20forever.+%E2%80%94+Konstantin+Tsiolkovsky;Our%20destiny%20is%20the%20stars%20and%20the%20endless%20sea.+%E2%80%94+%22Stellaris%22;Tilling%20the%20star-seas%2C%20reaching%20for%20the%20vault%20of%20heaven.+%E2%80%94+CNSA+2025)
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmr-BH&show_icons=true&theme=tokyonight)]
