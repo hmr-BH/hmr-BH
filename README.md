@@ -11,6 +11,13 @@
 
 ---
 
+### 🛠️ 我会什么
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmr-BH&layout=donut&theme=radical)
+
+
+---
+
 ### 🔥 当前状态
 - 🔭 **正在捣鼓：** 把想象编译成现实  
 - 🌱 **正在学习：** 如何优雅地写出让自己三天后还能看懂的代码  
@@ -18,19 +25,6 @@
 - 🧘 **正在养生：** 只要你不拒绝，活是干不完的 ~
 
 ---
-
-### 🛠️ 我会什么
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmr-BH&layout=donut&theme=radical)
-
-| 领域 | 技能栈 |
-|------|--------|
-| 🐍 后端 | Python · Kotlin · C++ |
-| ⚛️ 前端 | TypeScript · Vue.js |
-| 🧪 其他 | Windows · Linux · 自动化脚本 |
-
----
-
 
 ### 📫 联系我
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/hmr-BH)
