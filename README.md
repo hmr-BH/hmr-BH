@@ -6,7 +6,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmr-BH&layout=donut&theme=dark)
 
-![Profile Views](https://komarev.com/ghpvc/?username=hmr-BH&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=hmrbh&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
