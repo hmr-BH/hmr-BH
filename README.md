@@ -19,7 +19,7 @@
 ---
 
 ### 🛠️ 技术雷达
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmr-BH&theme=dark&layout=compact&hide_border=true&langs_count=6&card_width=450)
+![hmr-BH's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmr-BH&show_icons=true&theme=radical)
 
 | 领域 | 技能栈 |
 |------|--------|
