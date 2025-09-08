@@ -23,24 +23,12 @@
 
 | 领域 | 技能栈 |
 |------|--------|
-| 🐍 后端 | Python · FastAPI · PySide6 · C# |
+| 🐍 后端 | Python · Kotlin · C# |
 | ⚛️ 前端 | TypeScript · Vue.js |
-| 🎮 游戏 | Godot · GDScript · C# · Unity |
-| 🧪 其他 | Docker · Linux · 自动化脚本 |
+| 🧪 其他 | Windows · Linux · 自动化脚本 |
 
 ---
 
-### 📊 2025 数据看板
-
-| 指标 | 进度 |
-|------|------|
-| 总提交数 | ![Commits](https://badgen.net/badge/Commits/84/00add8?icon=github) 
-| PR 数 | ![PRs](https://badgen.net/badge/PRs/10/orange?icon=git) 
-| 贡献仓库 | ![Repos](https://badgen.net/badge/Contributed/7/green?icon=github)
-| 星标数 | ![Stars](https://badgen.net/badge/Stars/1/yellow?icon=star)
-| Issues | ![Issues](https://badgen.net/badge/Issues/2/red?icon=issue)
-
----
 
 ### 📫 联系我
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/hmr-BH)
