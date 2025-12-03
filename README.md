@@ -5,15 +5,11 @@
 </div>
 
 
-![hmr-BH's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmr-BH&show_icons=true&theme=radical)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=hmr-BH&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
 ### 🛠️ 我会什么
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmr-BH&layout=donut&theme=radical)
 
 
 ---
