@@ -6,7 +6,10 @@
 
 ![Followers](https://img.shields.io/badge/dynamic/json?color=238636&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhmr-BH)  ![Profile Views](https://komarev.com/ghpvc/?username=hmr-BH&label=Profile%20Views&color=018AFE&style=flat)
 
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hmr-BH&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1117&card_width=350" />
+
 ---
+
 
 ### 🔥 当前状态
 - 🔭 **正在捣鼓：** 把想象编译成现实  
