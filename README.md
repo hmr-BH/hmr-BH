@@ -12,19 +12,12 @@
 <br>
 
 <div align="center">
-
-<!-- GitHub 统计卡片 - 垂直排列 -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmr-BH&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-<br>
-
-<!-- 连续贡献记录 -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hmr-BH&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-<br>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmr-BH&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmr-BH&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmr-BH&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmr-BH&theme=radical&hide_border=true&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
 
 ---
