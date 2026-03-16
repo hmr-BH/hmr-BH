@@ -8,8 +8,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=hmr-BH&label=Profile%20Views&color=018AFE&style=flat)
 
 <div>
-  <img height="180em" src="https://githubstats.shinoyuki.cn/api/top-langs?username=hmr-BH&layout=compact&theme=radical" />
-  <img height="180em" src="https://githubstats.shinoyuki.cn/api?username=hmr-BH&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmr-BH&layout=compact&theme=radical" />
+  <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmr-BH&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 </div>
 
 ---
