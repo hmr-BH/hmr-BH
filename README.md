@@ -1,19 +1,10 @@
 # 🧬 郝某人BH
 
-<div align="center">
-  
+<br>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=5000&color=00add8&vCenter=true&width=1000&lines=Earth%20is%20the%20cradle%20of%20humanity%2C%20but%20mankind%20cannot%20stay%20in%20the%20cradle%20forever.+%E2%80%94+Konstantin+Tsiolkovsky;All%20tech%20rusts%2C%20no%20code%20is%20immortal.;Tilling%20the%20star-seas%2C%20reaching%20for%20the%20vault%20of%20heaven.+%E2%80%94+CNSA+2025)
 
 <br>
-
-<!-- 动态数据徽章 -->
-![Followers](https://img.shields.io/badge/dynamic/json?color=238636&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhmr-BH&style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=hmr-BH&label=Profile%20Views&color=018AFE&style=for-the-badge)
-[![GitHub](https://img.shields.io/badge/GitHub-hmr--BH-181717?style=for-the-badge&logo=github)](https://github.com/hmr-BH)
-
-<br>
-
-</div>
 
 <!-- 波浪分割线 -->
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=header&animation=twinkling" width="100%"/>
@@ -35,8 +26,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
-
-
 
 ---
 
