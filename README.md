@@ -11,6 +11,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=hmr-BH&label=Profile%20Views&color=018AFE&style=for-the-badge)
 [![GitHub](https://img.shields.io/badge/GitHub-hmr--BH-181717?style=for-the-badge&logo=github)](https://github.com/hmr-BH)
 
+<br>
+
 </div>
 
 <!-- 波浪分割线 -->
@@ -29,10 +31,12 @@
 
 <br>
 
-<!-- 3D 贡献图 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hmr-BH&theme=radical" width="100%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmr-BH&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
+
+
 
 ---
 
@@ -47,16 +51,7 @@
 <div align="center">
 
 ### 📫 联系我
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/hmr-BH)
-[![Email](https://img.shields.io/badge/Email-1218271192@qq.com-D14836?style=for-the-badge&logo=gmail)](mailto:1218271192@qq.com)
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram)]()
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)]()
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
-
-<div align="center">
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github )](https://github.com/hmr-BH )
+[![Email](https://img.shields.io/badge/Email-1218271192@qq.com-D14836?style=flat-square&logo=gmail )](mailto:1218271192@qq.com)
 
 > ✨ *如果这个 README 让你笑了，请给我一个* ⭐️ *！*  
